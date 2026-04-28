@@ -1,0 +1,6 @@
+[submodule "cheriot-rtos"]
+	path = cheriot-rtos
+	url = https://github.com/venngar/cheriot-rtos.git
+[submodule "network-stack"]
+	path = network-stack
+	url = https://github.com/venngar/network-stack.git
